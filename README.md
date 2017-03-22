@@ -1,3 +1,5 @@
+![Иллюстрация к проекту](Physics-Simulations-and-Animations-Alex-Ponomariov-/example _ 4.jpg)
+
 # Physics-Simulations-and-Animations
 Physics Simulations and Animations ( The example of Physics modeling and simulations on c#) 
 
