@@ -42,7 +42,7 @@ Physics Simulations and Animations ( The example of Physics modeling and simulat
  
  После дня работы над проектом  стало понятно почему ребята которые приходили устраиватся на работу терпели фиаско, работа програмисткая явно не для уровня Junior , надо строить мат модель , а это умеют не все. По факту надо было решать не те задачи которым меня учили, а родственные. вместо гидромеханики требовалась гидравлика и автоматика и т.д.  
  
- Но все было решено правильно можели написаны и запрограмированны, написан код... 
+ Но все было решено правильно модели написаны и запрограмированны, написан код... 
  
  Работу от компании я не получил, но вот  много чего повторил или узнал :) полезного для себя. 
  
@@ -122,15 +122,18 @@ This problem had to be solved in two stages:
 
 Static solution of the problem - a solution for static testing facilities when fiskirovannym physical parameters produced peraschet.
 Dynamic analysis when all the parameters are changed and the system will come to a dynamic equilibrium and displays all possible parameters of calculations, such as inlet pressure, suction or discharge pressure, the temperature of the refrigerator oil, the temperature of the incoming seawater, triggering emergency valve air compressor, etc. .
-After a day of work on the project, it became clear why the guys who came to work ustraivatsya suffered a fiasco, work programistkaya implicitly to Junior level, it is necessary to build a model of mat, which are able to not all. In fact it was necessary to address not the tasks that I had been taught, and related. instead of hydraulics and fluid mechanics required equipment, etc.
+After a day of work on the project, it became clear why the guys who came to work suffered a fiasco, work  implicitly to Junior level, it is necessary to build a model , which are able to not all. In fact it was necessary to address not the tasks that I had been taught, and related. instead of hydraulics and fluid mechanics required equipment, etc.
 
-But it was decided correctly mozheli written and programmed to, written code ...
+But it was decided correctly models written and programmed to, written code ...
 
 The work of the company, I did not get, but that's a lot of things :) repeated or learned useful things.
 
 Purpose of the project will share the accumulated experience on the modeling of the physical processes that will benefit young scientists and programmers working in the field of automation, hydraulics, hydrostatics and all those who want to display parameters in the Realtime Mode
 
-#A Bit about me (CV): mailto: AA_Ponomariov@mail.ru phonenumber: +7 (911) 086-56-51 Alexey Ponomarev (Russia SPb.) Profile of the expert: Higher economic or technical education. Experience over 10 years in the field of internal audit, internal control. Education:
+#A Bit about me (CV): 
+mailto: AA_Ponomariov@mail.ru phonenumber: +7 (911) 086-56-51 
+Alexey Ponomarev (Russia SPb.) 
+Profile of the expert: Higher economic or technical education. Experience over 10 years in the field of internal audit, internal control. Education:
 
 1992-1996 State Marine Technical University (SMTU Next). Engineer-economist. Specialization «Economics and management at machine-building enterprises"; 1992-1997 SPbSMTU. Occupation research engineer (fluid dynamics); 1997-2000 Full-time post-graduate course. SPbSMTU (fluid dynamics, gas and plasma); 1999 Institute of Foreign Economic Relations, Economics and Law. Accountant expert. (Raising awareness).
 
