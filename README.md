@@ -1,4 +1,4 @@
-![Иллюстрация к проекту](https://github.com/dingosmart/Physics-Simulations-and-Animations-Alex-Ponomariov-/example_4.jpg)
+![Иллюстрация к проекту](https://github.com/dingosmart/Physics-Simulations-and-Animations-Alex-Ponomariov-/blob/master/example%20_%204.jpg)
 
 # Physics-Simulations-and-Animations
 Physics Simulations and Animations ( The example of Physics modeling and simulations on c#) 
