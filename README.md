@@ -6,7 +6,7 @@
 Physics Simulations and Animations ( The example of Physics modeling and simulations on c#) 
 These projects came within vypolenniya test items for the corporation http://www.transas.com/, particularly for modeling department. Painfully, they needed a person with an engineering degree, with C # zanniem, with experience and is not demanding to the level of the RFP.
 
-Tests covered a broad front hydraulics problem, automation, programming, systems design. It has been a desire to have projects were carried out over a period not exceeding 2 weeks. In the language-in high-level type c # or C ++
+Tests covered a broad front hydraulics problem, automation, programming, systems design. It has been a desire to have projects were carried out over a period not exceeding 2 weeks. In the language-in high-level type C# or C ++
 
 The formed solution was to contain:
 
