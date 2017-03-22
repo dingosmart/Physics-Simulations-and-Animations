@@ -1,3 +1,5 @@
+Репозитарий включает в себя 4 задачи и соотвественно 4 программы с исходными кодами. 
+
 ![Задача о насосе №2 из 4](https://github.com/dingosmart/Physics-Simulations-and-Animations-Alex-Ponomariov-/blob/master/pump.jpg)
 
 ![Иллюстрация к проекту](https://github.com/dingosmart/Physics-Simulations-and-Animations-Alex-Ponomariov-/blob/master/example%20_%204.jpg)
