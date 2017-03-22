@@ -4,22 +4,23 @@
 
 # Physics-Simulations-and-Animations
 Physics Simulations and Animations ( The example of Physics modeling and simulations on c#) 
-These projects came within vypolenniya test items for the corporation http://www.transas.com/, particularly for modeling department. Painfully, they needed a person with an engineering degree, with C # zanniem, with experience and is not demanding to the level of the RFP.
+These projects came within vypolenniya test items for the corporation http://www.transas.com/, particularly for modeling department. Painfully, they needed a person with an engineering degree, with C# , with good experience .
 
 Tests covered a broad front hydraulics problem, automation, programming, systems design. It has been a desire to have projects were carried out over a period not exceeding 2 weeks. In the language-in high-level type C# or C ++
 
-The formed solution was to contain:
+The formed solution was contain:
 
-Description of the problem,
-Source code,
-Mathematical models in Exel format
-Additionally, the customer wanted a solution that would be (program) working in real mode RealTime time. It was possible to change the parameters of the physical system at any time vrmeni. in particular: to enable or disable the valves, enable and disable users to display on-screen fluid levels and other working environments. Update parameter memory should occur at intervals of 1 s.
+1.Description of the problem,
+2. Source code,
+3. Mathematical models in Exel format
+Additionally, the customer wanted a solution that would be (program) working in  RealTime mode. It was possible to change the parameters of the physical system at any time. 
+In particular: to enable or disable the valves, enable and disable users to display on-screen fluid levels and other working environments. Update parameter memory should occur at intervals of 1 s.
 
-In problem solving was given less than two weeks time. It just seems that the problems are simple, but really the biggest time of writing takes a physical model.
+In problem solving was given less than two weeks time. It just seems that the problems are simple, but really the biggest time of writing takes a physical models.
 
 As an introduction to the information received was that the previous 8 fluid mechanics failed to solve the data conditionally "simple" tasks, and who decided could not be programmed. More needed to show a "concise" code, I was scared that the decision will be evaluated by experienced programmers.
 
-I decided to challenge my unfortunate Colleges. And get the back with minimal introductory started modeling mat, and then to the programming.
+I decided to challenge my unfortunate Colleges. And get the back with minimal introductory started modeling models, and then to the programming them.
 
 A total of 4 projects were created, while it was necessary to solve the problem is not 4, and much more:
 
@@ -30,7 +31,7 @@ test the objects
 assemble programming interfaces
 to come up as soon as the use of standard libraries and tools
 collect the solution thoroughly and test it on the adequacy of the physical model
-To implement the project to use the product: Visual Studio Community 2017 (beta) To reduce the time used programirovannniya interface windows form. To display charts used standarny class Graph, an important achievement was to teach him to display graphics in RealTime mode imuliruya work equipment or ostsiloskopa.
+To implement the project to use the product: Visual Studio Community 2017 (beta) To reduce the time used  windows form. To display charts used standarny class Graph, an important achievement was to teach him to display graphics in RealTime mode like a ostsiloskopa.
 
 This problem had to be solved in two stages:
 
@@ -38,7 +39,7 @@ Static solution of the problem - a solution for static testing facilities when f
 Dynamic analysis when all the parameters are changed and the system will come to a dynamic equilibrium and displays all possible parameters of calculations, such as inlet pressure, suction or discharge pressure, the temperature of the refrigerator oil, the temperature of the incoming seawater, triggering emergency valve air compressor, etc. .
 After a day of work on the project, it became clear why the guys who came to work suffered a fiasco, work  implicitly to Junior level, it is necessary to build a model , which are able to not all. In fact it was necessary to address not the tasks that I had been taught, and related. instead of hydraulics and fluid mechanics required equipment, etc.
 
-But it was decided correctly models written and programmed to, written code ...
+
 
 The work of the company, I did not get, but that's a lot of things :) repeated or learned useful things.
 
