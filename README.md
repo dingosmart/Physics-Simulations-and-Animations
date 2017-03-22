@@ -58,8 +58,9 @@ Physics Simulations and Animations ( The example of Physics modeling and simulat
 
 
 
-#A bit about me:
-
+#A bit about me (CV):
+mailto:  AA_Ponomariov@mail.ru 
+phonenumber:  +7(911) 086-56-51
 Пономарёв Алексей Александрович (СПб. Россия)
 Профиль специалиста:
 Высшее экономическое и техническое образование.
